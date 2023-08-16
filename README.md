@@ -8,7 +8,8 @@ The purpose of this analysis is to enhance the existing algorithmic trading syst
 ### Financial Information and Prediction Task:
 
 The data consists of two simple moving averages (SMAs) labeled as "SMA_Fast" and "SMA_Slow," which are time series representations of asset price trends. The aim is to predict whether the asset price will increase (1) or decrease (-1) based on the relationship between these two moving averages.
-Variables and Exploration:
+
+### Variables and Exploration:
 The target variable to predict is the direction of the asset price movement, represented by 1 (increase) or -1 (decrease). The data exploration may involve calculating the value counts of the target variable to understand the class distribution.
 
 ### Stages of the Machine Learning Process:
