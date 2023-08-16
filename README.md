@@ -14,7 +14,7 @@ The target variable to predict is the direction of the asset price movement, rep
 
 ### Stages of the Machine Learning Process:
 
-1) Data Preprocessing: The provided data is likely preprocessed, scaled, and split into training and testing sets.
+1) Data Preprocessing: The provided data is processed, scaled, and split into training and testing sets.
 2) Model Selection and Training: Support Vector Machine (SVM) and Logistic Regression (LR) models are chosen and trained on the training data.
 3) Model Evaluation: The trained models are evaluated using the testing data to calculate precision, recall, and other classification metrics.
 
