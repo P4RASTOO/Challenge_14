@@ -43,4 +43,6 @@ Logistic Regression (LR) Model:
 
 Based on the results, both models have similar balanced accuracy scores and precision-recall scores. The SVM model has a slightly higher recall for the 1 class (increase), while the LR model has a slightly higher recall for the -1 class (decrease).
 
+## Recommendation
+
 Given the similar performance, it's recommended to consider other factors such as model complexity, interpretability, and ease of implementation when deciding on the final model. Additionally, further analysis could explore ensemble methods or fine-tuning hyperparameters to potentially improve model performance. Ultimately, the choice of model may depend on the specific trading strategy and risk tolerance of the firm.
